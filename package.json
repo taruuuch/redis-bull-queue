@@ -1,0 +1,11 @@
+{
+  "name": "redis-bull-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taruuuch/redis-bull-queue.git",
+  "author": "taruuuch <taruuuch@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bull": "^3.18.0"
+  }
+}
